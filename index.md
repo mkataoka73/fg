@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Happy Jekylling!"
+title: "格ゲーの成長記録"
 ---
 
-## You're ready to go!
+## {{ page.title }}
 
-Start developing your Jekyll website.
+格ゲーの成長記録を日記的に残すサイトです。
