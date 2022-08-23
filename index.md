@@ -10,5 +10,5 @@ Guilty Gear striveを練習している人のサイトです。
 
 
 {% for post in site.posts %}
- - [{{ post.title }}]({{ post.url }})
+ - [{{ post.title }}]({{ post.url | relative_url }})
 {% endfor %}
