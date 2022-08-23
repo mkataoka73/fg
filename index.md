@@ -1,8 +1,14 @@
 ---
 layout: default
-title: "格ゲーの成長記録"
 ---
 
-## {{ page.title }}
+## ギルティ日記
 
-格ゲーの成長記録を日記的に残すサイトです。
+Guilty Gear striveを練習している人のサイトです。
+
+メインキャラはジオヴァーナ、他には鰤、カイ、ソルなど。
+
+
+{% for post in site.posts %}
+ - [{{ post.title }}]({{ post.url }})
+{% endfor %}
