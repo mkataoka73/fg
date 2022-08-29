@@ -2,9 +2,9 @@
 layout: default
 ---
 
-## ギルティ日記
+## fighting game blog
 
-Guilty Gear striveを練習している人のサイトです。
+格闘ゲームGuilty Gear striveを練習している人のサイトです。
 
 メインキャラはジオヴァーナ、他には鰤、カイ、ソルなど。
 
